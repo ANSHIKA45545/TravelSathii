@@ -52,10 +52,15 @@ SmartTrip doesn’t just plan your trip — it plans your spending.
 🧩 Tech Stack
 
 Frontend: React.js, TailwindCSS
+
 AI Layer: OpenAI / Gemini API (for itinerary & budget optimization)
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 PDF Generator: jsPDF
+
 Hosting: Vercel / Render
 
 
