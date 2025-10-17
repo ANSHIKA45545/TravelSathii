@@ -18,6 +18,8 @@ Planning a trip often feels chaotic:
 3. Existing platforms focus on booking, not planning smartly.
 TravelSathii solves this by merging travel planning with financial intelligence — creating structured, affordable itineraries powered by AI.
 
+
+
 💡 Solution
   
 TravelSathii acts as a personal AI travel agent that:
