@@ -8,6 +8,8 @@
 SmartTrip is an AI-powered travel planner that helps users design personalized, budget-conscious itineraries — integrating hotel, flight, guide, and monument options intelligently.
 Unlike typical travel sites that only offer booking, SmartTrip analyzes user preferences, budget, and time to create a hustle-free, financially optimized travel experience.
 
+
+
 🚀 Problem
 
 Planning a trip often feels chaotic:
@@ -26,6 +28,8 @@ SmartTrip acts as a personal AI travel agent that:
 4. Lets users edit, save, and export their plan as a PDF.
 5. Sends reminders for each activity for a smooth, time-managed trip.
 
+
+
 💰 Fintech Relevance
 
 SmartTrip doesn’t just plan your trip — it plans your spending.
@@ -34,6 +38,7 @@ SmartTrip doesn’t just plan your trip — it plans your spending.
 2. Helps families and individuals stay within budget while maximizing experience.
 3. Introduces a SmartSpend system that visualizes expenses (stay, travel, food, activities).
 4. Bridges travel planning + financial literacy, aligning with fintech innovation in user budget awareness and prediction.
+
 
 
 ✨ Key Features
@@ -64,6 +69,7 @@ PDF Generator: jsPDF
 Hosting: Vercel / Render
 
 
+
 🔍 Future Enhancements
 
 • Real-time budget tracker using live currency + expense APIs.
@@ -73,6 +79,7 @@ Hosting: Vercel / Render
 • Voice-enabled AI assistant for hands-free travel planning.
 
 • Community-based trip sharing & recommendations.
+
 
 
 🎯 Impact
