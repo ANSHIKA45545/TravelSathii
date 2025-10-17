@@ -1,12 +1,12 @@
-🌍 SmartTrip — Your AI-Powered Travel & Budget Planner
+🌍 TravelSathii — Your AI-Powered Travel & Budget Planner
 
 “Travel Smart. Spend Wise.”
 
 
 🧠 Overview
 
-SmartTrip is an AI-powered travel planner that helps users design personalized, budget-conscious itineraries — integrating hotel, flight, guide, and monument options intelligently.
-Unlike typical travel sites that only offer booking, SmartTrip analyzes user preferences, budget, and time to create a hustle-free, financially optimized travel experience.
+TravelSathii is an AI-powered travel planner that helps users design personalized, budget-conscious itineraries — integrating hotel, flight, guide, and monument options intelligently.
+Unlike typical travel sites that only offer booking, TravelSathii analyzes user preferences, budget, and time to create a hustle-free, financially optimized travel experience.
 
 
 
@@ -16,11 +16,11 @@ Planning a trip often feels chaotic:
 1. Families overspend due to poor budgeting.
 2. Travelers struggle to balance timing, bookings, and expenses.
 3. Existing platforms focus on booking, not planning smartly.
-SmartTrip solves this by merging travel planning with financial intelligence — creating structured, affordable itineraries powered by AI.
+TravelSathii solves this by merging travel planning with financial intelligence — creating structured, affordable itineraries powered by AI.
 
 💡 Solution
   
-SmartTrip acts as a personal AI travel agent that:
+TravelSathii acts as a personal AI travel agent that:
 
 1. Chats interactively with users to gather info like destination, duration, budget, and number of people.
 2. Searches hotels, flights, guides, and monuments based on budget and preference.
@@ -32,7 +32,7 @@ SmartTrip acts as a personal AI travel agent that:
 
 💰 Fintech Relevance
 
-SmartTrip doesn’t just plan your trip — it plans your spending.
+TravelSathii doesn’t just plan your trip — it plans your spending.
 
 1. AI analyzes travel cost trends and suggests affordable options.
 2. Helps families and individuals stay within budget while maximizing experience.
@@ -52,6 +52,8 @@ SmartTrip doesn’t just plan your trip — it plans your spending.
 📅 Dynamic Itinerary Generator – Editable, time-structured travel schedule.
 
 📄 PDF Export + Reminders – Seamless for travelers and families.
+
+
 
 
 🧩 Tech Stack
@@ -84,7 +86,7 @@ Hosting: Vercel / Render
 
 🎯 Impact
 
-SmartTrip empowers users to:
+TravelSathii empowers users to:
 
    • Travel confidently within their financial limits.
    
