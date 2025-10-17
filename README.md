@@ -47,4 +47,29 @@ SmartTrip doesn’t just plan your trip — it plans your spending.
 📅 Dynamic Itinerary Generator – Editable, time-structured travel schedule.
 
 📄 PDF Export + Reminders – Seamless for travelers and families.
-   
+
+
+🧩 Tech Stack
+
+Frontend: React.js, TailwindCSS
+AI Layer: OpenAI / Gemini API (for itinerary & budget optimization)
+Backend: Node.js, Express.js
+Database: MongoDB
+PDF Generator: jsPDF
+Hosting: Vercel / Render
+
+
+🔍 Future Enhancements
+
+• Real-time budget tracker using live currency + expense APIs.
+• Integration with payment partners for instant booking.
+• Voice-enabled AI assistant for hands-free travel planning.
+• Community-based trip sharing & recommendations.
+
+
+🎯 Impact
+
+SmartTrip empowers users to:
+   • Travel confidently within their financial limits.
+   • Eliminate trip planning chaos with automation.
+   • Make every travel decision smarter and more affordable.
