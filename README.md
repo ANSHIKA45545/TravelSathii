@@ -39,8 +39,12 @@ SmartTrip doesn’t just plan your trip — it plans your spending.
 ✨ Key Features
 
 🤖 AI Chat Agent – Conversational trip planner that understands user needs.
+
 💸 Smart Budgeting Engine – Recommends cost-efficient plans dynamically.
+
 🏨 Integrated Search – Explore hotels, flights, guides, and monuments.
+
 📅 Dynamic Itinerary Generator – Editable, time-structured travel schedule.
+
 📄 PDF Export + Reminders – Seamless for travelers and families.
    
